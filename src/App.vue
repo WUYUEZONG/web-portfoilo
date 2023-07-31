@@ -89,13 +89,13 @@ import ProjectItem from "./components/ProjectItem.vue";
         <span class="title">Johnathan Specter</span>
         <span class="right">
           <span>
-            <img src="/src/assets/Social Icons/Twitter.svg" alt="" />
+            <img src="/src/assets/SocialIcons/Twitter.svg" alt="" />
           </span>
           <span>
-            <img src="/src/assets/Social Icons/LinkedIn.svg" alt="" />
+            <img src="/src/assets/SocialIcons/LinkedIn.svg" alt="" />
           </span>
           <span>
-            <img src="/src/assets/Social Icons/Github.svg" alt="" />
+            <img src="/src/assets/SocialIcons/Github.svg" alt="" />
           </span>
         </span>
       </div>
